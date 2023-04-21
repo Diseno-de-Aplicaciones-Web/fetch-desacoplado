@@ -1,3 +1,4 @@
+// Documentacion Jest: https://jestjs.io/docs/expect
 import { obterCodigo } from "./api.mjs";
 
 test("obtenerCodigo",()=>{
